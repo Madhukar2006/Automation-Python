@@ -14,7 +14,7 @@ This project is beginner-friendly and demonstrates practical usage of Python’s
 
 - File and folder operations using `os` module  
 - Rename files automatically  
-- Sort files into folders based on extension  
+- Sort files into folders based on extension     
 - Clean empty folders  
 - User input support from terminal  
 - Proper exception handling  
